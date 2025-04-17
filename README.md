@@ -1,12 +1,16 @@
-# React + Vite
+# College Website:
+A modern and responsive college website built using React.js, Tailwind CSS, and Web3Forms. The site showcases information about courses, departments, and facilities, and includes a working contact form—all designed for a smooth user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
+Fully responsive design.  
+Clean UI built with Tailwind CSS.  
+Component-based architecture using React.  
+Functional contact form powered by Web3Forms.  
+Sections: Hero, About, Courses, Contact, Footer, and more.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tech Stack:
+React.js: Component-based frontend development. 
+Tailwind CSS: Utility-first CSS framework for styling.  
+Web3Forms: Contact form handling without backend code.  
+VS Code: Code editor. 
+Git & GitHub: Version control and hosting.
